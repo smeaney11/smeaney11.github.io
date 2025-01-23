@@ -9,7 +9,6 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
 
 *Reflecting on TypeScript: A Game-Changer for Software Engineering*
