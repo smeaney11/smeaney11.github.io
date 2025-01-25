@@ -8,10 +8,10 @@ published: true
 labels:
   - Java
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "Text game in java with random fish you can catch that are worth different points, play against a friend."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+
 
 
 
