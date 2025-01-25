@@ -15,4 +15,4 @@ summary: "A text adventure game that I developed for ICS 313."
 
 
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+
