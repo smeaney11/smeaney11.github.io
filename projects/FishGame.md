@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/fish image.avif
 title: "Fish Game"
 date: 2022
 published: true
@@ -12,7 +12,7 @@ summary: "Text game in java with random fish you can catch that are worth differ
 ---
 
 
-
+<img class="img-fluid" src="../img/fish image.avif">
 
 
 
