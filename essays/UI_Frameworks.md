@@ -18,8 +18,10 @@ A UI framework delivers its users a major benefit through its ability to work at
 The implementation of UI frameworks provides both standardized interfaces and accessible design features like icons such as the shopping cart or instagram symbol. Bootstrap-powered websites automatically implement contemporary design rules which make buttons and forms alongside other elements appear professional and operate as expected. I faced difficulties in achieving uniformity between pages before I used Bootstrap as my development tool. The framework provides me with pre-designed components that generate a professional look while requiring minimal manual work. When working on team projects the standardized styles will become essential because my team members can use the same design elements without needing to edit CSS manually.
 
 
-Here is a website with Bootstrap
+**Here is a website with Bootstrap**
 <img class="img-fluid" src="../img/image_with_bootstrap.webp">
 
-Here is a website without Bootstrap
+**Here is a website without Bootstrap**
 <img class="img-fluid" src="../img/website_without_bootstrap.jpg">
+
+While the website without bootstrap "Murphys Bar" still appears professional and looks clean and works, The website using bootstrap "Arsha" brings the professionalism up a bit with the uniformity and sleek style, and is easier to maintain for you and also anyone else who works on the website as well.
