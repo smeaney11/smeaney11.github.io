@@ -9,7 +9,8 @@ labels:
   - Engineering
 ---
 
-The Value of UI Frameworks: Why Bother with Bootstrap 5?
+**The Value of UI Frameworks: Why Bother with Bootstrap 5?**
+
 Learning Bootstrap 5 as a UI framework was not so simple for me as it looked like it was for my peers. The learning experience was as challenging as learning an entirely new programming language. Learning a bootstrap requires a unique syntax and class names which I needed time to understand. The framework is complex and leads me to question whether I should use raw HTML and CSS instead. I initially doubted the value of Bootstrap when I first saw it but developer support for these tools became clear after using it. The time required to learn a framework results in improved efficiency alongside better maintainability.
 
 A UI framework delivers its users a major benefit through its ability to work at high speed. Developing every project with pure HTML and CSS requires extensive time investment particularly during design development. Bootstrap offers its users a grid system which simplifies the creation of adaptable layouts across different screen sizes. Writing complex CSS rules for flexible layouts manually would become necessary if I did not have access to this framework because it leads to both frustration and errors. Bootstrap enables me to build clean structured pages by applying predefined classes which save me from starting from scratch.
