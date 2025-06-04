@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Learning to Code, Securing the Future: My Path in Computer Science and Cybersecurity"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-25
+date: 2025-06-03
 published: true
 labels:
   - Engineering
