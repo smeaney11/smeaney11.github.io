@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Reflect on UI Frameworks"
 # All dates must be YYYY-MM-DD format!
-date: 2025-02-27
+date: 2025-06-03
 published: true
 labels:
   - Engineering
