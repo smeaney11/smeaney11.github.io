@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Stack Overflow Etiquette: The Right and Wrong Way to Ask for Help"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-30
+date: 2025-05-27
 published: true
 labels:
   - Engineering
