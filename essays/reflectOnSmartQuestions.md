@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on Typescript"
+title: "Reflect on Smart Questions"
 # All dates must be YYYY-MM-DD format!
-date: 2025-06-03
+date: 2025-06-13
 published: true
 labels:
   - Engineering
