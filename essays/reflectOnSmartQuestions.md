@@ -1,4 +1,3 @@
-
 ---
 layout: essay
 type: essay
@@ -11,17 +10,18 @@ labels:
 ---
 
 
+**"Stack Overflow Etiquette: The Right and Wrong Way to Ask for Help"**
 
-*Reflecting on TypeScript: A Game-Changer for Software Engineering*
 
-**The Power of TypeScript: A Newbie’s Perspective**
+*Why Smart Questions Matter in Software Engineering
+Software engineering practice demands both correct code writing and appropriate questions asking for success. The open-source community along with software developers can be effectively reached through the guidelines presented in Eric Raymond’s essay How to Ask Questions the Smart Way. The principles outlined in this guide enhance the chances of getting thoughtful responses instead of receiving criticism or being ignored on Stack Overflow and similar programmer assistance platforms. A smart question demonstrates dedication by giving complete information while acknowledging the time commitment of responders. A properly structured question serves two purposes: it helps the original asker and simultaneously creates valuable content for developers who encounter the same problem in the future.
 
-When it comes to TypeScript I am a complete newbie.  I really do not even have much experience with JavaScript and to my understanding Typescript is just JavaScript with some extra features.  That being said, I find TypeScript pretty similar to Java which I am most familiar with.  I am sure when I dive deeper into TypeScript I will find more differences but for now right at the beginning it does not seem so different besides some syntax. But as for the basics like methods
+*An Example of a Smart Question*
+A developer posted a performance-related Python script question on Stack Overflow which received detailed answers. The (posted question)[https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely] provided all essential details through a minimal reproducible example which described both expected and actual results. The developer presented their efforts before asking an exact question that could be answered. The community reacted favorably with thousands of upvotes to this question and by providing optimized solutions while explaining the root cause of the problem. The investment of proper question formulation results in obtaining better and more practical answers.
 
-**TypeScript: A Good Programming Language for Engineers?**
+*An Example of a Not-So-Smart Question*
+The poorly asked question on Stack Overflow demonstrated how following Raymond's advice would have produced better results. The question posed an unclear problem through its title (“How to integrate Bajaj finserv into woocommerce”)[https://stackoverflow.com/questions/79401949/how-to-integrate-bajaj-finserv-into-woocommerce] The question provided no background information while omitting the actual code and failed to identify any encountered errors. The lack of clarity in this question results in wasted time for potential responders while also making it more difficult for the questioner to obtain needed assistance.
 
-As for if TypeScript is a good or bad language for Engineers in my opinion it is too early to tell, I do not have enough experience in it to answer one way or another, I am sure i can interview some software engineers and get their opinion on the matter but for now in my opinion I would say i will find out this semester if it is a good or bad programming language for engineering.
+*Lessons Learned from Smart vs. Not-So-Smart Questions*
+The experience demonstrates why software engineering depends on effective and well-considered communication methods. The quality of questions determines the quality of answers which results in faster problem resolution throughout the process. 
 
-**Athletic Software Engineering: A Different Kind of Workout**
-
-Athletic Software Engineering and I never went well together. I remember taking Cam Moore’s 211 Class and he would make us do a WOD at the beginning of class with a pen and paper with a different kind of problem each day, or maybe it was once a week I can't remember exactly.  I never did well in those exercises but he gave us credit just for attempting. I have taken a while off coding since ICS212 so I am pretty rusty in my syntax and overall skill in programming so I will need to get back on track fast to be successful in the WOD’s. I do think they are useful but also stressful at the same time.  Sometimes a job will require a quick fix so I do think that they are useful and can relate to the actual workforce as long as you have the internet to help you with finding a solution to the problem.  
