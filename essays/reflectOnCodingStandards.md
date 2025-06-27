@@ -26,4 +26,6 @@ At first, I saw ESLint as a strict teacher focused on nit-picking. Over time, th
 On a team, having shared standards removes guesswork—everyone follows the same playbook. Even when I work alone, ESLint feels like a quiet coach that helps me avoid bad habits. Looking back, the pain of fixing those early errors paid off: my code is cleaner, and I’m faster because I don’t waste time untangling messy files. Coding standards turned out to be less about style debates and more about writing code I can trust tomorrow.
 
 
-<img class="img-fluid" src="../img/fish image.avif">
+<img class="img-fluid" src="../img/esLint image.png">
+<img class="img-fluid" src="../img/esLint error.png">
+
