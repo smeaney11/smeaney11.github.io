@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Reflect on Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2025-07-11
+date: 2025-08-11
 published: true
 labels:
   - Engineering
